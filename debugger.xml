@@ -100,9 +100,7 @@
     <option name="SHOW_THREAD_GROUPS" value="true" />
   </component>
   <component name="XDebuggerSettings">
-    <data-views>
-      <option name="showLibraryStackFrames" value="false" />
-    </data-views>
+    <data-views />
     <general>
       <option name="hideDebuggerOnProcessTermination" value="true" />
     </general>
