@@ -100,7 +100,9 @@
     <option name="SHOW_THREAD_GROUPS" value="true" />
   </component>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <option name="showLibraryStackFrames" value="false" />
+    </data-views>
     <general>
       <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
       <option name="hideDebuggerOnProcessTermination" value="true" />
