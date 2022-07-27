@@ -104,7 +104,6 @@
       <option name="showLibraryStackFrames" value="false" />
     </data-views>
     <general>
-      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
       <option name="hideDebuggerOnProcessTermination" value="true" />
     </general>
     <debuggers>
